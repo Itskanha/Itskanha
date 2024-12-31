@@ -48,6 +48,6 @@
 ### 📊 Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itskanha&" alt="streaks" height="190">
 <img src="https://github-readme-stats.vercel.app/api?username=Itskanha&show_icons=true&locale=en" alt="github_stats" height="201">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itskanha&layout=compact&theme=tokyonight" alt="languages" height="185">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itskanha&layout=compact&theme=tokyo" alt="languages" height="185">
 
  
